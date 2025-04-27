@@ -1,0 +1,26 @@
+# Ignore Python stuff
+__pycache__/
+*.pyc
+.env
+# Ignore virtual environments
+venv/
+env/
+Scripts/
+Include/
+Lib/
+bin/    
+share/
+etc/
+pyvenv.cfg
+
+# Ignore Chroma DB files
+chroma_db/
+
+# Ignore environment files
+.env
+
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
